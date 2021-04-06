@@ -1,16 +1,24 @@
-### Hi there 👋
+## Luke Davoli
+💻 Interested in Data Science and Software Engineering
+🎓 Studying Computer Science at the Royal Melbourne University of Technology
 
-<!--
-**lukedavoli/lukedavoli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🛠 Tech Stack
+### 👨🏻‍💻
+![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
+![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
+![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+![Flask](https://img.shields.io/badge/-Flask-333333?style=flat&logo=flask)
+![AWS](https://img.shields.io/badge/-AWS-333333?style=flat&logo=Amazon-AWS)
+  
+### 📊 
+![Pandas](https://img.shields.io/badge/-Pandas-333333?style=flat&logo=pandas)
+![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
+![Scikit-Learn](https://img.shields.io/badge/-ScikitLearn-333333?style=flat&logo=scikit-learn)
+  
 
-Here are some ideas to get you started:
+<h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p>
+  <a href="https://www.linkedin.com/in/luke-davoli-5645481a5/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%20Luke%20Davoli-blue?style=flat-square&logo=linkedin"></a>
+</p>
+

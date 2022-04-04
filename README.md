@@ -1,10 +1,8 @@
 ## Luke Davoli
-💻 Interested in Data Science and Software Engineering
-</br>
-🎓 Studying Computer Science at the Royal Melbourne University of Technology
+💻🍺 Analytics Management Trainee at Asahi Beverages in Melbourne, Australia
 
 ### 🛠 Tech Stack
-### 👨🏻‍💻 &nbsp; ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python) ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396) ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript) ![Flask](https://img.shields.io/badge/-Flask-333333?style=flat&logo=flask) ![AWS](https://img.shields.io/badge/-AWS-333333?style=flat&logo=Amazon-AWS)
+### 👨🏻‍💻 &nbsp; ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python) ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396) ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript) ![Flask](https://img.shields.io/badge/-Flask-333333?style=flat&logo=flask) ![Azure](https://img.shields.io/badge/-Azure-333333?style=flat&logo=Azure) ![AWS](https://img.shields.io/badge/-AWS-333333?style=flat&logo=Amazon-AWS)
   
 ### 📊 &nbsp; ![Pandas](https://img.shields.io/badge/-Pandas-333333?style=flat&logo=pandas) ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql) ![Scikit-Learn](https://img.shields.io/badge/-ScikitLearn-333333?style=flat&logo=scikit-learn)
   

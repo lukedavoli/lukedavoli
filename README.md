@@ -1,5 +1,5 @@
 ## Luke Davoli
-💻🍺 Analytics Management Trainee (Data Science) at Asahi Beverages in Melbourne, Australia
+💻🍺 Data Science Graduate at Asahi Beverages in Melbourne, Australia
 
 ### 🛠 Tech Stack
 ### 👨🏻‍💻 &nbsp; ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python) ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396) ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript) ![Flask](https://img.shields.io/badge/-Flask-333333?style=flat&logo=flask) ![Azure](https://img.shields.io/badge/-Azure-333333?style=flat&logo=Azure) ![AWS](https://img.shields.io/badge/-AWS-333333?style=flat&logo=Amazon-AWS)
